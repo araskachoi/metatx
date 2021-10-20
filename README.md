@@ -7,7 +7,7 @@ metatx, fwd, relay
 # Install
 ```
 npm install
-``
+```
 
 # Run
 ```
