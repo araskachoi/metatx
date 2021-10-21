@@ -11,5 +11,6 @@ npm install
 
 # Run
 ```
+npx hardhat compile
 npx hardhat ./run.ts --network hardhat
 ```

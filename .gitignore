@@ -1,1 +1,3 @@
-./artifacts
+artifacts
+cache
+node_modules
